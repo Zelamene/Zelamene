@@ -2,7 +2,7 @@
   <img src="./banner.svg" alt="Computer Science" width="100%" />
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=600&color=FF2EC4&center=true&vCenter=true&width=620&lines=Final-year+Computer+Science+student;Full-stack+developer;Code+%C2%B7+Football+%C2%B7+Basketball;Not+just+a+dog+playing+piano%E2%80%94playing+it+well" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=600&color=FF2EC4&center=true&vCenter=true&width=620&lines=Final-year+Computer+Science+student;Full-stack+developer;Hobby_1+%C2%B7+Hobby_2+%C2%B7+Hobby_3;Not+just+a+dog+playing+piano%E2%80%94playing+it+well" alt="Typing intro" />
 </p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Zelamene&label=Profile%20views&color=FF2EC4&style=for-the-badge" alt="Profile views" />
