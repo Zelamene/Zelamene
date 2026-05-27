@@ -35,11 +35,7 @@
 ### <img src="https://api.iconify.design/lucide:bar-chart-2.svg?color=%23FF2EC4&width=22&height=22" /> GitHub stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Zelamene&show_icons=true&hide_border=true&title_color=FF2EC4&icon_color=3BE0FF&text_color=CFE9FF&bg_color=0B0518" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zelamene&layout=compact&hide_border=true&title_color=FF2EC4&text_color=CFE9FF&bg_color=0B0518&langs_count=8" alt="Top languages" />
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Zelamene&hide_border=true&background=0B0518&stroke=FF2EC4&ring=3BE0FF&fire=FF2EC4&currStreakNum=FFFFFF&currStreakLabel=3BE0FF&sideNums=FFFFFF&sideLabels=CFE9FF&dates=8B8BA7&excludeDaysLabel=8B8BA7" alt="GitHub streak" />
+  <img src="./github-metrics.svg" alt="GitHub metrics" />
 </p>
 
 ---
