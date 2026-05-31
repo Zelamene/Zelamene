@@ -64,7 +64,7 @@
   <text x="600" y="166" text-anchor="middle"
         font-family="'Trebuchet MS',Verdana,Arial,sans-serif"
         font-size="20" font-weight="700" letter-spacing="7"
-        fill="#CFE9FF" filter="url(#softglow)">COMPUTER&#160;SCIENCE&#160;&#160;&#8226;&#160;&#160;&#8211&#160;</text>
+        fill="#CFE9FF" filter="url(#softglow)">COMPUTER&#160;SCIENCE&#160;&#160;&#8226;&#160;&#160;&#8211;&#160;</text>
 
   <!-- corner brackets -->
   <g stroke="url(#neon)" stroke-width="2.5" fill="none" filter="url(#softglow)">
