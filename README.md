@@ -40,7 +40,7 @@
 
 ---
 
-### <img src="https://api.iconify.design/lucide:quote.svg?color=%23FF2EC4&width=22&height=22" /> Words I code by
+### <img src="https://api.iconify.design/lucide:quote.svg?color=%23FF2EC4&width=22&height=22" /> Random ...
 
 > *"At some point it's not enough to be a dog that plays the piano — you have to play the piano well."*
 
