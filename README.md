@@ -1,23 +1,3 @@
-<p align="center">
-  <img src="./banner.svg" alt="Computer Science" width="100%" />
-</p>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=600&color=FF2EC4&center=true&vCenter=true&width=620&lines=Final-year+Computer+Science+student;Full-stack+developer;Hobby_1+%C2%B7+Hobby_2+%C2%B7+Hobby_3;Not+just+a+dog+playing+piano%E2%80%94playing+it+well" alt="Typing intro" />
-</p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Zelamene&label=Profile%20views&color=FF2EC4&style=for-the-badge" alt="Profile views" />
-</p>
-
----
-
-### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="26"> About me
-
-- <img src="https://api.iconify.design/lucide:graduation-cap.svg?color=%23FF2EC4&width=18&height=18" /> Final-year **Computer Science** student, building things end to end.
-- <img src="https://api.iconify.design/lucide:layers.svg?color=%23FF2EC4&width=18&height=18" /> Comfortable across the stack — backend services, web apps, databases, and a bit of graphics.
-- <img src="https://api.iconify.design/mdi:soccer.svg?color=%23FF2EC4&width=18&height=18" /> <img src="https://api.iconify.design/mdi:basketball.svg?color=%23FF2EC4&width=18&height=18" /> Off the keyboard you'll find me watching **football** and **basketball**.
-- <img src="https://api.iconify.design/lucide:message-circle.svg?color=%23FF2EC4&width=18&height=18" /> Ask me about anything I'm building — always happy to talk shop.
-
----
 
 ### <img src="https://api.iconify.design/lucide:code-2.svg?color=%23FF2EC4&width=22&height=22" /> Tech stack
 
